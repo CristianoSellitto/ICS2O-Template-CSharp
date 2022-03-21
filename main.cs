@@ -1,4 +1,6 @@
-// Cristiano | ICS2O-Unit0-00-CSharp | Date 2022
+// Cristiano
+// ICS2O-Unit0-00-CSharp
+// Date 2022
 
 using System;
 
